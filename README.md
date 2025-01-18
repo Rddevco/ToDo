@@ -36,6 +36,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
  # to execute run  backend and frontend 
- # for backend mpm run json-server
- # for frontend mpm run dev
-  
+ # for backend npm run json-server
+ # for frontend npm run dev
+  ![Screenshot (55)](https://github.com/user-attachments/assets/86b61f76-1dc9-4e09-8287-4fdc773dc307)
+  ![Screenshot (56)](https://github.com/user-attachments/assets/7ccb784d-0ff6-4893-b55c-9e4d2f840ec9)
+
